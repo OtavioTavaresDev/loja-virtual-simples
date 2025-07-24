@@ -50,7 +50,7 @@ Passo a Passo
 Clonar o repositório
 
 bash
-git clone https://github.com/seu-usuario/loja-virtual-simples.git
+git clone https://github.com/OtavioTavaresDev/loja-virtual-simples.git
 cd loja-virtual-simples
 Instalar dependências do backend
 
